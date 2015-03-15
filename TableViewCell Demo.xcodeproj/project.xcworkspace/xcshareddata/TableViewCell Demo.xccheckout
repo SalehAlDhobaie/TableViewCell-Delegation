@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D702A8E2-E39D-4A11-9906-C1C06BC96C37</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TableViewCell Demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6E0A140E2F6AD5DDC7AC684FBEDAA854E417D4A3</key>
+		<string>https://github.com/SalehAlDhobaie/TableViewCell-Delegation.git</string>
+		<key>C7997FD3E430B11B9467C19D8738D6A384D6F68C</key>
+		<string>https://github.com/SalehAlDhobaie/TableViewCell-Delegation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TableViewCell Demo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6E0A140E2F6AD5DDC7AC684FBEDAA854E417D4A3</key>
+		<string>../../../TableViewCell%20Demo</string>
+		<key>C7997FD3E430B11B9467C19D8738D6A384D6F68C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SalehAlDhobaie/TableViewCell-Delegation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C7997FD3E430B11B9467C19D8738D6A384D6F68C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C7997FD3E430B11B9467C19D8738D6A384D6F68C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TableViewCell-Delegation</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6E0A140E2F6AD5DDC7AC684FBEDAA854E417D4A3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TableViewCell%20Demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
